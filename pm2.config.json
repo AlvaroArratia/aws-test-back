@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "kodkod-backend",
+      "name": "node-test-back",
       "script": "./build/index.js",
       "watch": true,
       "env": {

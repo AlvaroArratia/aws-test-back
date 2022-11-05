@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "kodkod-backend",
+      "script": "./build/index.js",
+      "watch": true,
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
